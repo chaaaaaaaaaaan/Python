@@ -1,2 +1,3 @@
-"# Python\n"
-"# Python notebook"
+# Python
+
+Python notebook
